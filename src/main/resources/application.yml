@@ -1,0 +1,6 @@
+server:
+  port: 8989
+
+webdriver:
+  chromedriver:
+    path: driver/chromedriver.exe
